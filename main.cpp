@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-
+    cout << "Name  : Abdallh Ahmed Elrefai" <<endl;
+    cout << "code  : 22256" <<endl;
     float a, b, c, x1, x2, d, r, i;
     cout << "Enter  a, b , c ";
     cin >> a >> b >> c;
